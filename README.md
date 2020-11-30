@@ -1,2 +1,2 @@
-# tapatap
- Piano based application
+# Tapatap
+ Use the letter key to play a tune.
